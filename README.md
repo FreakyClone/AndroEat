@@ -10,9 +10,7 @@ In this app, Firebase were used for the databases and Paypal sandbox for payment
 Features we used for the application are:
 
 • Sign up
-
 • Sign in
-
 • Menu
 
 • Menu navigation bar
