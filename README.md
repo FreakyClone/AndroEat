@@ -7,8 +7,9 @@ This is my first app I created which I done a lot of research and took too much 
 
 In this app, Firebase were used for the databases and Paypal sandbox for payments. Additionally, google services were used as well.
 
-Features we used for the application are:
 
+
+Features that were used for the application:
 • Sign up
 
 • Sign in
