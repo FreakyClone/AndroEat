@@ -1,0 +1,199 @@
+{
+  "Category" : {
+    "01" : {
+      "Image" : "https://images.askmen.com/1080x540/2017/01/25-043929-can_you_make_chinese_takeout_healthy.jpg",
+      "Name" : "Chinese"
+    },
+    "02" : {
+      "Image" : "https://media.mnn.com/assets/images/2015/11/salmon.jpg.653x0_q80_crop-smart.jpg",
+      "Name" : "Fish"
+    },
+    "03" : {
+      "Image" : "http://cdn.skim.gs/image/upload/v1456338993/msi/middle-eastern-food_dvnvlb.jpg",
+      "Name" : "Middle-Eastern"
+    },
+    "04" : {
+      "Image" : "http://www.simplyrecipes.com/wp-content/uploads/2012/06/pasta-tuna-tomato-sauce-vertical-b-1400.jpg",
+      "Name" : "Pasta"
+    },
+    "05" : {
+      "Image" : "http://img1.cookinglight.timeinc.net/sites/default/files/styles/4_3_horizontal_-_1200x900/public/image/2016/08/main/1609p20-black-eyed-pea-cakes_0.jpg?itok=KxjENSOi",
+      "Name" : "Vegetarian"
+    },
+    "06" : {
+      "Image" : "http://food.fnr.sndimg.com/content/dam/images/food/fullset/2015/8/22/0/VB0107H_Italian-Finger-Sandwiches_s4x3.jpg.rend.hgtvcom.616.462.suffix/1442522792255.jpeg",
+      "Name" : "Sandwiches"
+    },
+    "07" : {
+      "Image" : "https://2rt9loawzcmbvlze40mhj9n0-wpengine.netdna-ssl.com/wp-content/uploads/2015/01/butter-chicken-pizza.jpg",
+      "Name" : "Pizza"
+    }
+  },
+  "User" : {
+    "9999999977" : {
+      "name" : "Andreas",
+      "password" : "1234"
+    },
+    "9999999985" : {
+      "name" : "George",
+      "password" : "1234"
+    },
+    "9999999988" : {
+      "Name" : "Vladimirou",
+      "Password" : "1234"
+    },
+    "9999999999" : {
+      "Name" : "Onisiforos",
+      "Password" : "1234"
+    }
+  },
+  "Foods": {
+    "01" : {
+      "Name" : "Sweet and Sour Chicken",
+      "Image" : "http://cdn-image.myrecipes.com/sites/default/files/styles/4_3_horizontal_-_1200x900/public/sweet-sour-chicken-ck.jpg?itok=m8rfzfd-",
+      "Description" : "Sliced chicken breast with red and green peppers and pineapple with sweet and sour sauce.",
+      "Price" : "8",
+      "MenuId" : "01"
+    },
+    "02" : {
+      "Name" : "Spring Rolls",
+      "Image" : "https://steamykitchen.com/wp-content/uploads/2012/07/chinese-chicken-egg-rolls-recipe-8473.jpg",
+      "Description" : "Fried dish available as a dim sum. Contains minced pork, shredded carrot, bean sprouts and other vegetables served with a sauce similar to Worcestershire sauce. 4pcs.",
+      "Price" : "3",
+      "MenuId" : "01"
+    },
+    "03" : {
+      "Name" : "Chinese Roast Duck",
+      "Image" : "http://jamaicans.com/wp-content/uploads/2016/07/Jamaican-Chinese-Style-Roast-Duck-Recipe.jpg",
+      "Description" : "Half crispy aromatic duck.",
+      "Price" : "11",
+      "MenuId" : "01"
+    },
+    "04" : {
+      "Name" : "Salmon with Beans",
+      "Image" : "http://food.fnr.sndimg.com/content/dam/images/food/fullset/2010/9/15/0/Healthy_Salmon-003_s4x3.jpg.rend.hgtvcom.616.462.suffix/1379610487273.jpeg",
+      "Description" : "A fillet spicy salmon with beans.",
+      "Price" : "5",
+      "MenuId" : "02"
+    },
+    "05" : {
+      "Name" : "Grilled Prawns",
+      "Image" : "http://cdn-image.myrecipes.com/sites/default/files/styles/4_3_horizontal_-_1200x900/public/prawns-al-mojo-de-ajo-ck.jpg?itok=gt6SqxH2",
+      "Description" : "Grilled prawns with spices and piri piri sauce. 6pcs.",
+      "Price" : "5.50",
+      "MenuId" : "02"
+    },
+    "06" : {
+      "Name" : "Grilled Seabass",
+      "Image" : "http://gbc-cdn-public-media.azureedge.net/img17687.1426x713.jpg",
+      "Description" : "Grilled seabass with cherry tomatoes, celery, carrots and dill.",
+      "Price" : "10.50",
+      "MenuId" : "02"
+    },
+    "07" : {
+      "Name" : "Kebab",
+      "Image" : "http://www.afghankitchenrecipes.com/wp-content/uploads/2016/10/Kabab_Koobideh-575x262.jpg",
+      "Description" : "2 pieces of kebab with grilled tomatoes and onions with yogurt.",
+      "Price" : "6.20",
+      "MenuId" : "03"
+    },
+    "08" : {
+      "Name" : "Falafels Balls.",
+      "Image" : "http://finedininglovers.cdn.crosscast-system.com/BlogPost/l_1014_Falafel.jpg",
+      "Description" : "Made out of chickpeas (also called garbanzo beans). 8pcs.",
+      "Price" : "7.50",
+      "MenuId" : "03"
+    },
+    "09": {
+      "Name" : "Chicken Kebab",
+      "Image" : "http://blog.lacajachina.com/wp-content/uploads/2014/09/chicken-kebab-recipes.jpg",
+      "Description" : "3 skewers of chicken kebab with spices.",
+      "Price" : "9.30",
+      "MenuId" : "03"
+    },
+    "10" : {
+      "Name" : "Carbonara",
+      "Image" : "http://food.fnr.sndimg.com/content/dam/images/food/fullset/2014/2/7/1/FNM_030114-Spaghetti-Carbonara-Recipe-h_s4x3.jpg.rend.hgtvcom.616.462.suffix/1391877822709.jpeg",
+      "Description" : "Linguini with mushrooms, bacon, fresh cream and parmesan",
+      "Price" : "7.70",
+      "MenuId" : "04"
+    },
+    "11" : {
+      "Name" : "Seafood Pasta",
+      "Image" : "http://assets.kraftfoods.com/recipe_images/opendeploy/197736_640x428.jpg",
+      "Description" : "Pasta with tomato sauce, red wine, shrimps, mussels, onions and baby octopus.",
+      "Price" : "8.30",
+      "MenuId" : "04"
+    },
+    "12" : {
+      "Name" : "Bolognese",
+      "Image" : "http://cdn-image.foodandwine.com/sites/default/files/styles/medium_2x/public/pasta-bolognese-r-xl-200009.jpg?itok=RXr4uVx4",
+      "Description" : "Pennes with beef mince, tomato sauce and parmesan",
+      "Price" : "8",
+      "MenuId" : "04"
+    },
+    "13" : {
+      "Name" : "Veggie Burgers",
+      "Image" : "http://i.huffpost.com/gadgets/slideshows/360631/slide_360631_4037013_compressed.jpg",
+      "Description" : "2 pieces of veggie burger with mix vegetables(carrots, celery, tomato and courgettes).",
+      "Price" : "7.30",
+      "MenuId" : "05"
+    },
+    "14" : {
+      "Name" : "Quinoa Salad",
+      "Image" : "http://www.onceuponachef.com/images/2013/05/thai-quinoa-salad-11.jpg",
+      "Description" : "Quinoa with cucumber, onions, tomatoes and coriander.",
+      "Price" : "5.50",
+      "MenuId" : "05"
+    },
+    "15" : {
+      "Name" : "Cheese Samosas",
+      "Image" : "https://www.bbcgoodfood.com/sites/default/files/styles/category_retina/public/recipe-collections/collection-image/2013/05/spinach-sweet-potato-samosas.jpg?itok=7HrGeSyW",
+      "Description" : "2 pieces of samosas with cheese and vegendables in side.",
+      "Price" : "6",
+      "MenuId" : "05"
+    },
+    "16" : {
+      "Name" : "Greek style Sandwiches",
+      "Image" : "https://assets.bonappetit.com/photos/57daf4f626bdf8de5bbcaa2f/master/w_1200,c_limit/hummus-and-feta-sandwiches-on-whole-grain-bread-646.jpg",
+      "Description" : "2 pieces of greek sandwiches contains halloumi, tomato and cucumber",
+      "Price" : "5.80",
+      "MenuId" : "06"
+    },
+    "17" : {
+      "Name" : "Cypriot Sandwich",
+      "Image" : "http://siga-siga.com.cy/wp-content/uploads/2016/08/Neromylos7.jpg",
+      "Description" : "Sandwich with halloumi, bacon,tomato and lettuce.",
+      "Price" : "5.80",
+      "MenuId" : "06"
+    },
+    "18" : {
+      "Name" : "Club Sandwich",
+      "Image" : "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--653594_11.jpg?itok=9trM5bYp",
+      "Description" : "4 pieces of toast with egg, chicken, tomato, bacon and lettuce.",
+      "Price" : "8",
+      "MenuId" : "06"
+    },
+    "19" : {
+      "Name" : "Margarita Pizza",
+      "Image" : "https://www.daringgourmet.com/wp-content/uploads/2013/02/Pizza-7-sm.jpg",
+      "Description" : "Pizza with cheese mix, tomato and oregano.",
+      "Price" : "8",
+      "MenuId" : "07"
+    },
+    "20" : {
+      "Name" : "Pepperoni Pizza",
+      "Image" : "http://www.jennycancook.com/wp-content/uploads/2013/02/PeppPizza_600.jpg",
+      "Description" : "Pizza with cheese mix, tomato sauce and pepperoni.",
+      "Price" : "9.20",
+      "MenuId" : "07"
+    },
+    "21" : {
+      "Name" : "Hawaiian Pizza",
+      "Image" : "https://media3.s-nbcnews.com/j/newscms/2017_23/2033771/170611-hawaiian-pizza-se-1035p_07e99ba92d77ea892674998727279f47.nbcnews-ux-2880-1000.jpg",
+      "Description" : "Pizza with Cheese mix, ham and pineapple.",
+      "Price" : "10.50",
+      "MenuId" : "07"
+    }
+  }
+}
